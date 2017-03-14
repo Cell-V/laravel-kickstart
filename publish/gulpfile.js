@@ -25,7 +25,7 @@ var dependencies = {
         'jquery/dist/jquery.min.js',
         'bootstrap-sass/assets/javascripts/bootstrap.min.js'
     ]
-}
+};
 
 // Compile all the things
 elixir(function(mix) {
